@@ -1,0 +1,23 @@
+html {
+    background-color: rgb(252, 225, 201)
+}
+
+header {
+    font-family: 'Raleway', serif;
+    font-size: 48px;
+}
+
+body {
+    font-family: 'Raleway', serif;
+    font-size: 32px;
+}
+
+#salmon {
+    display: block;
+    margin: 0 auto;
+    border: 5px solid black;
+}
+
+#salmon:hover {
+    border: 5px solid rgb(255, 175, 71);
+}
